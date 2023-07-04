@@ -1,0 +1,10 @@
+.bannerimage{
+    
+        height: 100%;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://static.vecteezy.com/system/resources/previews/008/551/618/non_2x/abstract-speed-electric-cars-in-the-illustration-electric-cars-are-powered-by-electric-energy-future-energy-on-blue-background-vector.jpg");
+        background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://static.vecteezy.com/system/resources/previews/008/551/618/non_2x/abstract-speed-electric-cars-in-the-illustration-electric-cars-are-powered-by-electric-energy-future-energy-on-blue-background-vector.jpg"        
+        );
+        background-position: 0% 0%, 50% 50%;
+        background-size: auto, cover;
+        background-repeat: repeat, no-repeat;
+    }
